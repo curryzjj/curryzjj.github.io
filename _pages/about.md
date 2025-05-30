@@ -6,11 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student in the [School of Computer Science & Technology](https://cs.hust.edu.cn) at the [Huazhong University of Science and Technology](https://www.hust.edu.cn), where I am supervised by [Dr. Haikun Liu](https://www.cs.ox.ac.uk/people/Mark.Harman/) and [Dr. Andrea Arcuri](https://faculty.hust.edu.cn/liuhaikun/zh_CN/zhym/872475/list/index.htm). 
-My research focuses on stream processing, transactional consistency, and
+I am currently a PhD student in the [School of Computer Science & Technology](https://cs.hust.edu.cn) at the [Huazhong University of Science and Technology](https://www.hust.edu.cn), where I am supervised by [Dr. Haikun Liu](https://www.cs.ox.ac.uk/people/Mark.Harman/) and [Dr. Andrea Arcuri](https://faculty.hust.edu.cn/liuhaikun/zh_CN/zhym/872475/list/index.htm).
+I am affiliated with the [National Engineering Research Center for Big Data Technology and System, the Services Computing Technology and System Lab and the Cluster and Grid Computing Lab](https://grid.hust.edu.cn/index.htm).
+
+My primary research interests stream processing, transactional consistency, and
 parallel recovery, with a particular focus on scalable
 transactional stream processing on multicore
 processors and distributed environments.
+
+I also actively collaborate with [Dr.Shuhao Zhang](https://shuhaozhangtony.github.io/) on innovative research in the field of parallel database
+systems, large language model (LLM) inference frameworks, and their
+integration with stream processing techniques.
 
 A data-driven personal website
 ======
