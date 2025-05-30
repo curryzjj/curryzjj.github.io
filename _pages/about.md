@@ -18,11 +18,33 @@ I also actively collaborate with [Dr.Shuhao Zhang](https://shuhaozhangtony.githu
 systems, large language model (LLM) inference frameworks, and their
 integration with stream processing techniques.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. **Jianjun Zhao**, Haikun Liu, Shuhao Zhang, Yancan Mao, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang.  
+   *Towards High-Performance Transactional Stateful Serverless Workflows with Affinity-Aware Leasing*.  
+   In *Proceedings of the 2025 USENIX Annual Technical Conference (USENIX ATC)*, Boston, MA, USA, July 7–9, 2025. USENIX Association, 2025:1890–1910.  
+   *(CCF A conference; EI indexed; Affiliation: Huazhong University of Science and Technology)*
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2. **Jianjun Zhao**, Yancan Mao, Zhonghao Yang, Haikun Liu, Shuhao Zhang.  
+   *Scalable Transactional Stream Processing on Multicore Processors*.  
+   *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, Early Access, 2025.  
+   [DOI:10.1109/TKDE.2025.3556741](https://doi.org/10.1109/TKDE.2025.3556741)  
+   *(CCF A journal; SCI indexed; IF: 8.9; Affiliation: Huazhong University of Science and Technology)*
+
+3. **Jianjun Zhao**, Haikun Liu, Shuhao Zhang, Zhuohui Duan, Xiaofei Liao, Hai Jin, Yu Zhang.  
+   *Fast Parallel Recovery for Transactional Stream Processing on Multicores*.  
+   In *Proceedings of the 2024 IEEE 40th International Conference on Data Engineering (ICDE)*, Utrecht, Netherlands, May 13–16, 2024. IEEE, 2024:1478–1491.  
+   *(CCF A conference; EI indexed; Affiliation: Huazhong University of Science and Technology)*
+
+4. Yancan Mao, **Jianjun Zhao**, Shuhao Zhang, Haikun Liu, Volker Markl.  
+   *MorphStream: Adaptive Scheduling for Scalable Transactional Stream Processing on Multicores*.  
+   In *Proceedings of the 2023 International Conference on Management of Data (SIGMOD)*, Washington, USA, June 18–23, 2023. ACM, 2023:1–16.  
+   *(CCF A conference; EI indexed; Co-first author; Affiliation: Huazhong University of Science and Technology)*
+
+5. Siqi Xiang, Zhonghao Yang, **Jianjun Zhao**, Yancan Mao, Shuhao Zhang.  
+   *MorphStream: Scalable Processing of Transactions over Streams*.  
+   In *Proceedings of the 2024 IEEE 40th International Conference on Data Engineering (ICDE Demo)*, Utrecht, Netherlands, May 13–16, 2024. IEEE, 2024:5485–5488.  
+   *(CCF A conference; EI indexed; Affiliation: Huazhong University of Science and Technology)*
 
 Getting started
 ======
