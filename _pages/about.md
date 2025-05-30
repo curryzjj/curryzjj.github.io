@@ -30,9 +30,9 @@ Publications
 Education
 ======
 - **Huazhong University of Science and Technology**  
-  *Ph.D. in Computer Science and Technology*  
-  Sep 2020 – now
+  - Ph.D. in Computer Science and Technology (Sep 2020 – now) 
+  
 
 - **North China Electric Power Universit**  
-  *Bachelor's Degree in Network Engine*  
-  Sep 2016 – June 2020
+  - Bachelor's Degree in Network Engine (Sep 2016 – June 2020)
+  
