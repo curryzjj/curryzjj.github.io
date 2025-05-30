@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student in the [School of Computer Science & Technology](https://cs.hust.edu.cn) at the [Huazhong University of Science and Technology](https://www.hust.edu.cn), where I am supervised by [Dr. Haikun Liu](https://www.cs.ox.ac.uk/people/Mark.Harman/) and [Dr. Andrea Arcuri](https://faculty.hust.edu.cn/liuhaikun/zh_CN/zhym/872475/list/index.htm).
+I am currently a PhD student in the [School of Computer Science & Technology](https://cs.hust.edu.cn) at the [Huazhong University of Science and Technology](https://www.hust.edu.cn), where I am supervised by [Dr. Haikun Liu](https://www.cs.ox.ac.uk/people/Mark.Harman/).
 I am affiliated with the [National Engineering Research Center for Big Data Technology and System, the Services Computing Technology and System Lab and the Cluster and Grid Computing Lab](https://grid.hust.edu.cn/index.htm).
 
 My primary research interests stream processing, transactional consistency, and
