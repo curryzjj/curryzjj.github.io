@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D.Student at School of Computer Science & Technology, Huazhong University of Science and Technology"
   location         : "Wuhan China"
-  employer         : "Huazhong University of Science and Technology"
+  employer         :
   uri              : # URL
   email            : "curry_zhao@hust.edu.cn"
 
@@ -215,16 +215,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
