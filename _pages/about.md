@@ -29,7 +29,7 @@ Publications
 
 Education
 ======
-- Huazhong University of Science and Technology (Sep 2020 – now)
+- Huazhong University of Sci. & Tech. (Sep 2020 – now)
   - Ph.D. in Computer Science and Technology  
   
 
